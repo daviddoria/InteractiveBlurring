@@ -31,6 +31,8 @@ protected:
   ImageType::Pointer Image;
   ImageType::Pointer BlurredImage;
 
+  QGraphicsScene* OriginalScene;
+  QGraphicsScene* BlurredScene;
 };
 
 #endif // InteractiveBlurringWidget_H
