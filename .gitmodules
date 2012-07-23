@@ -1,0 +1,6 @@
+[submodule "Widgets"]
+	path = Widgets
+	url = https://github.com/daviddoria/Widgets.git
+[submodule "ITKQtHelpers"]
+	path = ITKQtHelpers
+	url = https://github.com/daviddoria/ITKQtHelpers.git
